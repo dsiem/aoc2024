@@ -12,3 +12,4 @@ This repository contains my solutions for the [Advent of Code 2024](https://adve
 |[Day 6: Guard Gallivant](https://adventofcode.com/2024/day/6)|&#11088;|&#11088;|
 |[Day 7: Bridge Repair](https://adventofcode.com/2024/day/7)|&#11088;|&#11088;|
 |[Day 8: Resonant Collinearity](https://adventofcode.com/2024/day/8)|&#11088;|&#11088;|
+|[Day 9: Disk Fragmenter](https://adventofcode.com/2024/day/9)|&#11088;|&#11088;|
