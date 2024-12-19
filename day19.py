@@ -5,7 +5,6 @@ import functools
 def combinations(design, count=0):
     if not design:
         return 1
-    count = 0
     for pattern in patterns:
         if design.startswith(pattern):
             count += combinations(design[len(pattern) :])

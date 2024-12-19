@@ -17,6 +17,7 @@ This repository contains my solutions for the [Advent of Code 2024](https://adve
 |[Day 11: Plutonian Pebbles](https://adventofcode.com/2024/day/11)|&#11088;|&#11088;|
 |[Day 12: Garden Groups](https://adventofcode.com/2024/day/12)|&#11088;|&#11088;|
 |[Day 13: Claw Contraption](https://adventofcode.com/2024/day/13)|&#11088;|&#11088;|
+|[Day 14: Restroom Redoubt](https://adventofcode.com/2024/day/14)|&#11088;|&#11088;|
 |[Day 16: Reindeer Maze](https://adventofcode.com/2024/day/16)|&#11088;|&#11088;|
 |[Day 17: Chronospatial Computer](https://adventofcode.com/2024/day/17)|&#11088;|&#11088;|
 |[Day 18: RAM Run](https://adventofcode.com/2024/day/18)|&#11088;|&#11088;|
