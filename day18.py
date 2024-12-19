@@ -19,10 +19,10 @@ def search(wait: int) -> list[int]:
 bytes = [tuple(map(int, line.split(","))) for line in open(0)]
 stop, wait = (70, 70), 1024
 path = search(wait)
-steps = len(path)
+print(len(path))
 
 while path:
     wait = next(n + 1 for n, byte in enumerate(bytes[wait:], wait) if byte in path)
     path = search(wait)
 
-print(steps, ",".join(map(str, bytes[wait - 1])))
+print(*bytes[wait - 1], sep=",")
